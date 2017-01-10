@@ -2,7 +2,7 @@
 name: EBI Jekyll Boilerplate
 group: EMBL-EBI Web Development
 email: noreply@ebi.ac.uk
-domain: //ebiwd.github.io
+domain: //markbingley.github.io
 baseurl: /EBI-Boilerplate-Jekyll
 permalink: pretty
 
